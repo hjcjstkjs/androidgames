@@ -13,7 +13,7 @@ public class AndroidBasicStarter extends ListActivity {
 			"KeyTest", "AccelerometerTest", "AssetsTest",
 			"ExternalStorageTest", "SoundPoolTest", "mediaPlayerTest",
 			"FullScreenTest", "RenderViewTest", "ShapeTest", "BitmapTest",
-			"FontTest", "SurfaceViewTest" };
+			"FontTest", "SurfaceViewTest","HelloWorld" };
 	
     @Override
     protected void onCreate(Bundle savedInstanceState) {
